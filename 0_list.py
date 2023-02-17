@@ -19,6 +19,6 @@
 17) Python Program to Print the Fibonacci sequence
 18) Python Program to Check Armstrong Number
 19) Python Program to Find Armstrong Number in an Interval
-20)Python Program to Find the Sum of Natural Numbers
+20) Python Program to Find the Sum of Natural Numbers
 
 """
