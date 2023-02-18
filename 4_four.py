@@ -1,1 +1,0 @@
-# 4) Python program to solve quadratic equation
