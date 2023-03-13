@@ -1,3 +1,5 @@
+#  Write a program to reverse an integer in Python. 
+
 print("Write a program to reverse an integer in Python")
 print(" ")
 a = int(input("Enter the number : "))
